@@ -1,3 +1,19 @@
+# Pics React Project
+
+In this App you help you to easy find images from a name.
+
+This is a simple but very usefull app where I implemented a few diferents important concepts about React. Some of this important concepts are: 
+
+
+- Class and Functional components. 
+- Use of state and setState(). 
+- Event handlers from components like onClick, onSubmit, onChange and others.
+- LifeCycle methods like componentDidMount, componentWillUnMount for example to set a state when the component is created or eliminate. 
+- Props communicate system responsability: the prop system only communicate from a parent down to a child. 
+- How to render images and how to auto asing the heigth property from each one to see it correctly into the dom. 
+- And also I was implemented key property from each card list element. 
+- Axios http request from external API's, in this case to "https://api.unsplash.com". You can see this configuration on src/api/unsplash.js 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
